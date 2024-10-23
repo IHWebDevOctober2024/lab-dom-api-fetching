@@ -32,7 +32,7 @@ npm install
   ```
   git add .
   git commit -m "done"
-  git push origin master
+  git push origin main
   ```
 
 - Create a Pull Request and submit your assignment.
