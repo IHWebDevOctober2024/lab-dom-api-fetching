@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+
+}
+
+.card {
+  list-style-type: none;
+  width: 100px;
+  height: 200px;
+  background-color: rgb(36, 183, 237);
+  padding: 30px;
+  border-radius: 2rem;
+  font-size: 12px;
+
+
+  img {
+    width: 50px;
+    
+  }
+}
